@@ -1,0 +1,183 @@
+{
+  "goal": "Improve cardio while maintaining strength training",
+  "fatigue": 5,
+  "phase": "cut",
+  "schedule_notes": "Runs 5x/week, lifts 5x/week",
+  "workouts": [
+    {
+      "day": "Friday, Jun 26th 2026",
+      "type": "Run AND Lift",
+      "completed": false,
+      "effort": null
+    },
+    {
+      "day": "Thursday June 25th, 2026",
+      "type": "run and lift",
+      "completed": false,
+      "effort": null
+    },
+    {
+      "day": "Wedn June 24th, 2026",
+      "type": "Run",
+      "completed": true,
+      "effort": 4
+    },
+    {
+      "day": "Wedn June 24th, 2026",
+      "type": "run",
+      "completed": true,
+      "run_type": "easy",
+      "time": "20 minutes",
+      "pace": "9:45",
+      "effort": 3
+    },
+    {
+      "day": "Thursday June 25th, 2026",
+      "type": "run",
+      "completed": true,
+      "run_type": "easy",
+      "time": "35",
+      "pace": "9:44",
+      "effort": 4
+    },
+    {
+      "day": "Friday June 26th, 2026",
+      "type": "Run",
+      "completed": true
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Bench Press",
+      "weight": 135.0,
+      "reps": 8
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat bench Press",
+      "weight": 135.0,
+      "reps": 8
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "flat bench press",
+      "weight": 135.0,
+      "reps": 8
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "close grip bench",
+      "weight": 155.0,
+      "reps": 4
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat bench press 185",
+      "weights": [
+        3.0
+      ],
+      "reps": [
+        10
+      ]
+    },
+    {
+      "day": "today",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat bench press 135x8, 145x8,",
+      "weights": [
+        155.0
+      ],
+      "reps": [
+        6
+      ]
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat Bench press",
+      "weights": [
+        135.0,
+        145.0,
+        145.0
+      ],
+      "reps": [
+        8,
+        8,
+        6
+      ]
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat bench press",
+      "weights": [
+        135.0,
+        145.0,
+        155.0
+      ],
+      "reps": [
+        8,
+        7,
+        7
+      ]
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat bench press",
+      "weights": [
+        135.0,
+        145.0,
+        145.0
+      ],
+      "reps": [
+        8,
+        8,
+        7
+      ]
+    },
+    {
+      "day": "June 26th",
+      "type": "lift",
+      "completed": true,
+      "exercise": "Flat Bench Press",
+      "weights": [
+        135.0,
+        145.0,
+        145.0
+      ],
+      "reps": [
+        8,
+        8,
+        7
+      ]
+    },
+    {
+      "type": "lift",
+      "exercise": "Flat Bench Press",
+      "weights": [
+        135.0,
+        145.0,
+        145.0
+      ],
+      "reps": [
+        8,
+        8,
+        6
+      ]
+    }
+  ]
+}
